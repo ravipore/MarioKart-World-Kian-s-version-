@@ -1,0 +1,6 @@
+{
+  "name": "Welcome to MarioKart World!",
+  "description": "A 14-racer 3D arcade kart racing game featuring BingBong the Dinosaur and five custom power-up items where only the top 3 win.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
